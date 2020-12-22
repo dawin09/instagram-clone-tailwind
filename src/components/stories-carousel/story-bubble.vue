@@ -21,6 +21,7 @@ export default {
 
 <style>
 .story-bubble {
+
     width: 68px;
 }
 
