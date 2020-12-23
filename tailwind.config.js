@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontSize: {
         'xxs': '.70rem'
+      },
+      width: {
+        'inherit': 'inherit'
       }
     },
     screens: {
